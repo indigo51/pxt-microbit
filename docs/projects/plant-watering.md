@@ -20,9 +20,9 @@ This is a follow up of the **[soil moisture project](/projects/soil-moisture)**.
 * 1 @boardname@ with battery pack and batteries
 * 2 long nails or silver
 * 2 crocodile clips
-* 1 micro servo  + 3 female-to-croc clips
+* 1 micro servo  + 3 male-to-croc clips
 * 1 ice cream wooden stick
-* 2 elastics
+* 2 elastic bands
 * 1 clear tape roll
 * 1 straw
 * 1 pair of scissors
